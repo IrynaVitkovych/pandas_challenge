@@ -27,3 +27,6 @@ Suggestion:
 
 Conducting a financial analysis for each school can provide deeper insights into how budgets are allocated and spent. 
 We can provide a comprehensive understanding of how each school utilizes its budget and whether there is a correlation between spending patterns and academic performance. This information will be valuable for making informed resource allocation and budget optimization decisions.
+
+
+While working on this module, I used Google, Xpert Learning Assistant, Chat GPT, and tutor sessions, which helped me build and run the code.
