@@ -2,6 +2,7 @@
 Module 4
 
 Summary of Analysis:
+
 The analysis focused on district-wide standardized test results, comparing performance between district schools and charter schools. Key observations include the following points:
 
   1. School Size and Budget Comparison:
