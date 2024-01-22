@@ -3,7 +3,7 @@ Module 4
 
 Summary of Analysis:
 
-The analysis focused on district-wide standardized test results, comparing performance between district schools and charter schools. Key observations include the following points:
+The analysis focused on district-wide standardized test results, comparing performance between schools. Key observations include the following points:
 
   1. School Size and Budget Comparison:
 District schools are larger in terms of student enrollment compared to charter schools.
