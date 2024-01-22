@@ -3,7 +3,7 @@ Module 4
 
 Summary of Analysis:
 
-The analysis focused on district-wide standardized test results, comparing performance between schools. Key observations include the following points:
+The analysis focused on standardized test scores, school types, school budgets, and the number of students per school to compare the performance of different schools. Key observations include the following points:
 
   1. School Size and Budget Comparison:
 District schools are larger in terms of student enrollment compared to charter schools.
@@ -11,7 +11,7 @@ Most of district schools also have larger budgets per student compared to charte
 
   2.Passing Score Discrepancy:
 Despite having larger budgets and more students, district schools exhibit lower passing scores compared to charter schools.
-Charter schools, with lower budgets and smaller student populations, outperform district schools regarding passing rates.
+Charter schools outperform district schools regarding passing rates in math, reading and overall perfomance.
 
   3.Top 5 Schools Performance:
 The top 5 schools based on overall passing rates are charter schools.
