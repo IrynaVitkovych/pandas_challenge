@@ -9,11 +9,11 @@ The analysis focused on standardized test scores, school types, school budgets, 
 District schools are larger in terms of student enrollment compared to charter schools.
 Most of district schools also have larger budgets per student compared to charter schools.
 
-  2.Passing Score Discrepancy:
+  2. Passing Score Discrepancy:
 Despite having larger budgets and more students, district schools exhibit lower passing scores compared to charter schools.
 Charter schools outperform district schools regarding passing rates in math, reading and overall perfomance.
 
-  3.Top 5 Schools Performance:
+  3. Top 5 Schools Performance:
 The top 5 schools based on overall passing rates are charter schools.
 The bottom performing schools are 5 district schools in terms of overall passing rates.
 
